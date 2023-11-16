@@ -1,0 +1,15 @@
+/Users/Vlad/Projects/CHarpPlus/LessonOne/HomeWork/HomeworkSeminarOne/HomeworkSeminarOne/bin/Debug/net7.0/HomeworkSeminarOne
+/Users/Vlad/Projects/CHarpPlus/LessonOne/HomeWork/HomeworkSeminarOne/HomeworkSeminarOne/bin/Debug/net7.0/HomeworkSeminarOne.deps.json
+/Users/Vlad/Projects/CHarpPlus/LessonOne/HomeWork/HomeworkSeminarOne/HomeworkSeminarOne/bin/Debug/net7.0/HomeworkSeminarOne.runtimeconfig.json
+/Users/Vlad/Projects/CHarpPlus/LessonOne/HomeWork/HomeworkSeminarOne/HomeworkSeminarOne/bin/Debug/net7.0/HomeworkSeminarOne.dll
+/Users/Vlad/Projects/CHarpPlus/LessonOne/HomeWork/HomeworkSeminarOne/HomeworkSeminarOne/bin/Debug/net7.0/HomeworkSeminarOne.pdb
+/Users/Vlad/Projects/CHarpPlus/LessonOne/HomeWork/HomeworkSeminarOne/HomeworkSeminarOne/obj/Debug/net7.0/HomeworkSeminarOne.csproj.AssemblyReference.cache
+/Users/Vlad/Projects/CHarpPlus/LessonOne/HomeWork/HomeworkSeminarOne/HomeworkSeminarOne/obj/Debug/net7.0/HomeworkSeminarOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Vlad/Projects/CHarpPlus/LessonOne/HomeWork/HomeworkSeminarOne/HomeworkSeminarOne/obj/Debug/net7.0/HomeworkSeminarOne.AssemblyInfoInputs.cache
+/Users/Vlad/Projects/CHarpPlus/LessonOne/HomeWork/HomeworkSeminarOne/HomeworkSeminarOne/obj/Debug/net7.0/HomeworkSeminarOne.AssemblyInfo.cs
+/Users/Vlad/Projects/CHarpPlus/LessonOne/HomeWork/HomeworkSeminarOne/HomeworkSeminarOne/obj/Debug/net7.0/HomeworkSeminarOne.csproj.CoreCompileInputs.cache
+/Users/Vlad/Projects/CHarpPlus/LessonOne/HomeWork/HomeworkSeminarOne/HomeworkSeminarOne/obj/Debug/net7.0/HomeworkSeminarOne.dll
+/Users/Vlad/Projects/CHarpPlus/LessonOne/HomeWork/HomeworkSeminarOne/HomeworkSeminarOne/obj/Debug/net7.0/refint/HomeworkSeminarOne.dll
+/Users/Vlad/Projects/CHarpPlus/LessonOne/HomeWork/HomeworkSeminarOne/HomeworkSeminarOne/obj/Debug/net7.0/HomeworkSeminarOne.pdb
+/Users/Vlad/Projects/CHarpPlus/LessonOne/HomeWork/HomeworkSeminarOne/HomeworkSeminarOne/obj/Debug/net7.0/HomeworkSeminarOne.genruntimeconfig.cache
+/Users/Vlad/Projects/CHarpPlus/LessonOne/HomeWork/HomeworkSeminarOne/HomeworkSeminarOne/obj/Debug/net7.0/ref/HomeworkSeminarOne.dll
